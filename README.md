@@ -1,8 +1,8 @@
 ## Lokendra Vishwakarma
 
-I am doin my PhD from Indian Institute of Technology in Computer Science and Engineering Department. I work under the supervision of Dr. Debasis Das. I have completed my Master of Technology from Samrat Ashok Technological Institute of Technology in Computer Science and Engineering Department in the field of Cloud Computing.
+I am doing my PhD from Indian Institute of Technology in the Computer Science and Engineering Department. I work under the supervision of Dr. Debasis Das. I have completed my Master of Technology from Samrat Ashok Technological Institute of Technology in the Computer Science and Engineering Department in the field of Cloud Computing.
 
-My current research interest includes the Blockchain, Cryptocurrency and Cryptographic algorithm. I am actively engaged with the application of blockchain in Internet of Things, Internet of Vehicles, Smart Grid and Fintech. My research focus is to develop a new consensus algorithms which is suitable for all these applications.
+My current research interest includes the Blockchain, Cryptocurrency and Cryptographic algorithm. I am actively engaged with the application of blockchain in the Internet of Things, Internet of Vehicles, Smart Grid and Fintech. My research focus is to develop a new consensus algorithm which is suitable for all these applications.
 
 ### Education Qualification
 1. Pursuing PhD, Computer Science and Engineering from Indian Institute of Technology (IIT), Jodhpur, India.
@@ -16,7 +16,7 @@ My current research interest includes the Blockchain, Cryptocurrency and Cryptog
 3. Lokendra Vishwakarma and Debasis Das, Blockchain-based Security Protocol for Next-Generation Smart Grid Transactions, Science and Education Magazine, TechScape: IIT Jodhpur, Volume 01, Issue 02, December 2020.
 4. Lokendra Vishwakarma and Debasis Das, BSS: Blockchain-Enabled Security System for Internet of Things Applications, 19th IEEE International Symposium on Network Computing and Applications (NCA 2020),  November 26-28, Online [Core Ranking: Core A].
 
-You can find my all research work [https://scholar.google.com/citations?user=eQVsO00AAAAJ&hl=en&authuser=1](here).
+You can find all my research work [https://scholar.google.com/citations?user=eQVsO00AAAAJ&hl=en&authuser=1](here).
 
 ### Research Grant
 
@@ -28,4 +28,5 @@ You can find my all research work [https://scholar.google.com/citations?user=eQV
 2. Worked as Assistant Professor in Department of Computer Science and Engineering at Truba College of Science & Technology, Bhopal affiliated with Rajiv Gandhi Proudyogiki Vishwavidyalaya, Bhopal, India from 10th January 2018 to 14th June 2018.
 3. Worked as Assistant Professor in Department of Computer Science and Engineering at Shri G S Institute of Technology and Science, Indore affiliated with Rajiv Gandhi Proudyogiki Vishwavidyalaya, Bhopal, India from 17th July 2015 to 9th June 2017.
 4. Worked as Assistant Professor in Department of Computer Science and Engineering at Bansal Institute of Science and Technology (B.I.S.T.), Bhopal affiliated with Rajiv Gandhi Proudyogiki Vishwavidyalaya, Bhopal, India from 8th July 2013 to 15th  July 2015.
+
 
