@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Lokendra Vishwakarma
 
-You can use the [editor on GitHub](https://github.com/lokendraiitj/lokendraiitj.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I am doin my PhD from Indian Institute of Technology in Computer Science and Engineering Department. I work under the supervision of Dr. Debasis Das. Currently I am working in Blockchain area. My research work basically focus on applicaiton of blockchain in IoT, IoV , and Smart Grid.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
