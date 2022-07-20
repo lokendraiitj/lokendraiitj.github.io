@@ -11,10 +11,12 @@ My current research interest includes the Blockchain, Cryptocurrency and Cryptog
 
 ### Research Publications
 
-1. Lokendra Vishwakarma and Debasis Das, BlockTree: A Nonlinear Structured, Scalable and Distributed ledger Scheme for Processing Digital Transactions The Journal of Networks, Software Tools and Applications (Springer Cluster Computing), April 2021. [Impact Factor 3.458].
-2. Lokendra Vishwakarma and Debasis Das, SCAB - IoTA: Secure Communication and Authentication for IoT Applications using Blockchain, Journal of Parallel and Distributed Computing, August 2021 (ELSEVIER). [Core Ranking: Core A].
-3. Lokendra Vishwakarma and Debasis Das, Blockchain-based Security Protocol for Next-Generation Smart Grid Transactions, Science and Education Magazine, TechScape: IIT Jodhpur, Volume 01, Issue 02, December 2020.
-4. Lokendra Vishwakarma and Debasis Das, BSS: Blockchain-Enabled Security System for Internet of Things Applications, 19th IEEE International Symposium on Network Computing and Applications (NCA 2020),  November 26-28, Online [Core Ranking: Core A].
+1. Lokendra Vishwakarma, Ankur Nahar, and Debasis Das, LBSV: Lightweight Blockchain Security Protocol for Secure Storage and Communication in SDN-enabled IoV, IEEE Transactions on Vehicular Technology (IEEE TVT), April 2022 [Impact Factor 6.329].
+2. Lokendra Vishwakarma and Debasis Das, SmartCoin: A novel incentive mechanism for vehicles in intelligent transportation system based on consortium blockchain, Vehicular Communications (ELSEVIER), January 2022, [Impact Factor 8.37].
+3. Lokendra Vishwakarma and Debasis Das, BlockTree: A Nonlinear Structured, Scalable and Distributed ledger Scheme for Processing Digital Transactions The Journal of Networks, Software Tools and Applications (Springer Cluster Computing), April 2021, [Impact Factor 2.303].
+4. Lokendra Vishwakarma and Debasis Das, SCAB - IoTA: Secure Communication and Authentication for IoT Applications using Blockchain, Journal of Parallel and Distributed Computing (ELSEVIER), August 2021, [Impact Factor 4.542].
+5. Lokendra Vishwakarma and Debasis Das, Blockchain-based Security Protocol for Next-Generation Smart Grid Transactions, Science and Education Magazine, TechScape: IIT Jodhpur, Volume 01, Issue 02, December 2020.
+6. Lokendra Vishwakarma and Debasis Das, BSS: Blockchain-Enabled Security System for Internet of Things Applications, 19th IEEE International Symposium on Network Computing and Applications (NCA 2020),  November 26-28, Online [Core Ranking: Core A].
 
 You can find all my research work [here](https://scholar.google.com/citations?user=eQVsO00AAAAJ&hl=en&authuser=1).
 
