@@ -30,5 +30,3 @@ You can find all my research work [here](https://scholar.google.com/citations?us
 2. Worked as Assistant Professor in Department of Computer Science and Engineering at Truba College of Science & Technology, Bhopal affiliated with Rajiv Gandhi Proudyogiki Vishwavidyalaya, Bhopal, India from 10th January 2018 to 14th June 2018.
 3. Worked as Assistant Professor in Department of Computer Science and Engineering at Shri G S Institute of Technology and Science, Indore affiliated with Rajiv Gandhi Proudyogiki Vishwavidyalaya, Bhopal, India from 17th July 2015 to 9th June 2017.
 4. Worked as Assistant Professor in Department of Computer Science and Engineering at Bansal Institute of Science and Technology (B.I.S.T.), Bhopal affiliated with Rajiv Gandhi Proudyogiki Vishwavidyalaya, Bhopal, India from 8th July 2013 to 15th  July 2015.
-
-
